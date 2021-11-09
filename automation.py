@@ -3,7 +3,7 @@ from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 
 #Driver_Path
-s=Service('/home/hoaxer/PycharmProjects/automation/chromedriver')
+s=Service('/home/hoaxer/PycharmProjects/Browser-Automation/chromedriver')
 #driver_path = "/home/hoaxer/PycharmProjects/automation/chromedriver"
 
 
